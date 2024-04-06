@@ -24,45 +24,33 @@ const Skeleton = () => (
 );
 const items = [
   {
-    title: "The Dawn of Innovation",
+    title: "The Vagabond",
     description: "Explore the birth of groundbreaking ideas and inventions.",
     header: <Skeleton />,
     
   },
   {
-    title: "The Digital Revolution",
+    title: "Mentoring the upcoming",
     description: "Dive into the transformative power of technology.",
     header: <Skeleton />,
     
   },
   {
-    title: "The Art of Design",
+    title: "Strumming sometimes",
     description: "Discover the beauty of thoughtful and functional design.",
     header: <Skeleton />,
     
   },
   {
-    title: "The Power of Communication",
+    title: "Designing for Humans",
     description:
       "Understand the impact of effective communication in our lives.",
     header: <Skeleton />,
     
   },
   {
-    title: "The Pursuit of Knowledge",
+    title: "Cynophillia forever",
     description: "Join the quest for understanding and enlightenment.",
-    header: <Skeleton />,
-    
-  },
-  {
-    title: "Travelling thr",
-    description: "Experience the thrill of bringing ideas to life.",
-    header: <Skeleton />,
-    
-  },
-  {
-    title: "The Spirit of Adventure",
-    description: "Embark on exciting journeys and thrilling discoveries.",
     header: <Skeleton />,
     
   },
